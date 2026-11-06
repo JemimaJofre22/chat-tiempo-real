@@ -193,7 +193,7 @@ sequenceDiagram
 - Consola del servidor
 ![alt text](7.Consola.png)
 - README renderizado en StackEdit
-
+![alt text](8.Stackedit-1.png)
 
 ## 13. Pruebas realizadas
 
