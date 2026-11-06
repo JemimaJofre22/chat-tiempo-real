@@ -236,28 +236,18 @@ Durante el desarrollo se probó, abriendo varias pestañas/navegadores contra
 
 ## Historial de commits
 
-> Nota: los commits `1` a `7` son commits reales realizados durante el
-> desarrollo (ver `git log --oneline` en el repositorio). El commit `8`
-> corresponde a esta documentación.
-
 | # | Commit    | Cambios realizados                                                          |
 |---|-----------|-------------------------------------------------------------------------------|
-| 1 | `8a4c1ec` | Creación de la estructura inicial del proyecto                               |
-| 2 | `b324938` | Creación de la interfaz base del frontend con Bootstrap 5                    |
-| 3 | `6b0f44a` | Implementación de la conexión base con Socket.IO                             |
-| 4 | `fc859b9` | Incorporación del registro de usuarios con identificación única              |
-| 5 | `683bf65` | Implementación del envío y recepción de mensajes en tiempo real              |
-| 6 | `a947c92` | Implementación de eventos de conexión/desconexión con fecha, hora y lista    |
-| 7 | `7a53ad1` | Mejoras de estilos, UX y estado de botones según la conexión                 |
-| 8 | *(ver `git log`)* | Documentación completa del proyecto en README.md                    |
+| 1 | `ee71b43` | Estructura inicial del chat en tiempo real.                             |
+| 2 | `6cadbb2` | Incorporación de capturas y documentación final.                    |
 
 ### Tags
 
-- `v1.0.0`: estrutura inicial funcional.
-- `v1.1.0`: implementación de usuarios y mensajes.
-- `v2.0.0`: versión final entregable.
+- `v1.0.0`: versión inicial del proyecto.
+- `v1.1.0`: versión con funcionalidades completas del chat.
+- `v2.0.0`: versión final documentada y lista para entregar.
 
-Para ver el historial completo en tu propio entorno:
+Para ver el historial completo:
 
 ```
 git log --oneline --graph --decorate
