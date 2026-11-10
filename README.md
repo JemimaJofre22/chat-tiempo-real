@@ -228,9 +228,9 @@ Durante el desarrollo se probó, abriendo varias pestañas/navegadores contra
 
 ## 16. Autores
 
-- Estudiantes: Arellano, Joanna y Jofré, Jemima
+- Estudiantes: Joanna y Jemima
 - Materia: Práctica Profesionalizante III
-- Institución: Instituto Técnico Superior Cipolletti
+- Institución: Instituto Técnico Superior
 
 ---
 
